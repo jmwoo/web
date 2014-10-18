@@ -1,3 +1,3 @@
 $(function () {
-  console.log('DOM ready...');
+  $('h1').text('DOM ready...');
 });
